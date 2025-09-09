@@ -31,7 +31,7 @@ By the end of this module, you'll be able to:
 - [Windows Fundamentals Part 1](https://tryhackme.com/room/windowsfundamentals1xbx) - Understand Windows system basics
 
 **Deliverable**: Screenshots showing completion of each room
-
+<img width="1407" height="357" alt="image" src="https://github.com/user-attachments/assets/6eb8bd37-953e-4087-bb8e-351e30e7e97a" />
 <img width="316" height="957" alt="image" src="https://github.com/user-attachments/assets/81fc7810-dd0f-4290-bb3e-9b2fe70216bb" />
 
 ### Step 2 (Guided Application): "Apply" and "Analyze" 
