@@ -32,6 +32,8 @@ By the end of this module, you'll be able to:
 
 **Deliverable**: Screenshots showing completion of each room
 
+<img width="316" height="957" alt="image" src="https://github.com/user-attachments/assets/81fc7810-dd0f-4290-bb3e-9b2fe70216bb" />
+
 ### Step 2 (Guided Application): "Apply" and "Analyze" 
 **Complete OverTheWire Bandit Levels 1-15**
 
